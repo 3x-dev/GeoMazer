@@ -16,11 +16,13 @@ Here are all the images needed for the game to work. Please put them in a folder
 ![stars](https://user-images.githubusercontent.com/78041644/171931903-0a02ca22-92e5-40b4-827d-c3403756d6d7.jpg)
 
 Here are all the text files needed for the game to work. Please put them in a folder called "questions".
+
 [usa_hard_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835059/usa_hard_questions.txt)
 [both_hard_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835060/both_hard_questions.txt)
 [world_easy_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835061/world_easy_questions.txt)
 [usa_easy_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835062/usa_easy_questions.txt)
 [both_easy_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835063/both_easy_questions.txt)
 [world_hard_questions.txt](https://github.com/TripledMoney/Java-Game-Project/files/8835064/world_hard_questions.txt)
+
 
 Have fun!
