@@ -7,6 +7,7 @@ Download the GeoMazer5.java file and the 2 folders (pictures & questions) into t
 Compile and run the GeoMazer5.java file to play.
 
 Compile and run using the following commands in your terminal window:
+
 **Compile:**
 javac GeoMazer5.java
 
